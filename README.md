@@ -15,7 +15,7 @@
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCLUKOQCOI-AjefkLBKJhki0UiBHwEjZ4qp9DDqRoKd2MGzwlgap-96EFhgQZkwt0XGM&usqp=CAU" alt="react" width="60" height="60" />
+  <img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg" alt="react" width="60" height="60" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" alt="rust" width="40" height="40" />
 </p>
 
