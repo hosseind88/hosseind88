@@ -20,7 +20,7 @@
   <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="40" height="40" />
 </p>
 
-- 👯 I’m looking to collaborate on: Rust, React projects
+- 👯 I’m looking to collaborate on: Rust projects
 </br>
 
 <p align="center">
