@@ -22,9 +22,3 @@
 
 - 👯 I’m looking to collaborate on: Rust projects
 </br>
-
-<p align="center">
- <a href="#" alt="Hossein Dindar's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=hosseind88&theme=tokyonight&show_icons=true" />
- </a>
-</p>
